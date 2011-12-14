@@ -1,0 +1,18 @@
+# Node Breadth First Search
+
+Supporting material for the blog post: http://www.slalompoint.com/node-breadth-first-search/
+
+## To run example:
+
+```$ node main.js
+
+## Set search root directory: 
+
+Inside main.js:
+
+```$ bfs.setroot('temp');
+
+
+This repo demonstrates a breadth first search implementation in the context of file searching within a Node.js app.
+
+The 'temp' directory provides a few files to test the algorithm. It otherwise has no other purpose.
